@@ -1,0 +1,33 @@
+.TH Kdiamond 6
+.SH NAME
+kdiamond \- KDE Diamond Game
+.SH SYNOPSIS
+.B kdiamond
+.I [Qt-options] [KDE-options]
+.SH DESCRIPTION
+.B kdiamond
+is a three-in-a-row game like Bejeweled. It features unlimited fun 
+with randomly generated games and five difficulty levels with varying number 
+of diamond colors and board sizes.
+.SH OPTIONS
+.TP
+.B \-\-VeryEasy
+Start with Very Easy difficulty level
+.TP
+.B \-\-Easy
+Start with Easy difficulty level
+.TP
+.B \-\-Medium
+Start with Medium difficulty level
+.TP
+.B \-\-Hard
+Start with Hard difficulty level
+.TP
+.B \-\-VeryHard
+Start with Very Hard difficulty level
+.so kdeopt.part
+.SH SEE ALSO
+More detailed user documentation is available from
+.BR help:/kdiamond
+(either enter this URL into \fBkonqueror\fP, or run `khelpcenter
+help:/kdiamond').
