@@ -1,30 +1,5 @@
 ../icons/kdiamond-16.xpm /usr/share/pixmaps
 ../icons/kdiamond.xpm /usr/share/pixmaps
+etc/*
 usr/games/kdiamond
-usr/share/applications/kde4/kdiamond.desktop
-usr/share/doc/kde/HTML/en/kdiamond/common
-usr/share/doc/kde/HTML/en/kdiamond/index.cache.bz2
-usr/share/doc/kde/HTML/en/kdiamond/index.docbook
-usr/share/icons/hicolor/128x128/apps/kdiamond.png
-usr/share/icons/hicolor/16x16/apps/kdiamond.png
-usr/share/icons/hicolor/22x22/apps/kdiamond.png
-usr/share/icons/hicolor/32x32/apps/kdiamond.png
-usr/share/icons/hicolor/48x48/apps/kdiamond.png
-usr/share/icons/hicolor/64x64/apps/kdiamond.png
-usr/share/icons/hicolor/scalable/apps/kdiamond.svgz
-usr/share/kde4/apps/kdiamond/kdiamond.kcfg
-usr/share/kde4/apps/kdiamond/kdiamond.notifyrc
-usr/share/kde4/apps/kdiamond/kdiamondui.rc
-usr/share/kde4/apps/kdiamond/themes/default.desktop
-usr/share/kde4/apps/kdiamond/themes/diamonds.desktop
-usr/share/kde4/apps/kdiamond/themes/diamonds.png
-usr/share/kde4/apps/kdiamond/themes/diamonds.svgz
-usr/share/kde4/apps/kdiamond/themes/egyptian.svgz
-usr/share/kde4/apps/kdiamond/themes/egyptian_preview.png
-usr/share/kde4/apps/kdiamond/themes/funny_zoo.desktop
-usr/share/kde4/apps/kdiamond/themes/funny_zoo.png
-usr/share/kde4/apps/kdiamond/themes/funny_zoo.svgz
-usr/share/kde4/config/kdiamond.knsrc
-usr/share/sounds/KDiamond-Stone-Drop.ogg
-usr/share/sounds/KDiamond-Stone-Swap.ogg
-usr/share/sounds/KDiamond-Stone-Touch.ogg
+usr/share/*
