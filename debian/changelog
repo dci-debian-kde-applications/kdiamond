@@ -1,3 +1,11 @@
+kdiamond (4:15.12.3-1~1.gbp8f0e07) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @8f0e07a42dfadd06b1bcf9fcc1b92d8644de83f8 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:14:42 +0200
+
 kdiamond (4:15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
