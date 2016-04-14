@@ -1,9 +1,9 @@
-kdiamond (4:15.12.3-0ubuntu1) UNRELEASED; urgency=medium
+kdiamond (4:15.12.3-0ubuntu1) xenial; urgency=medium
 
   * New upstream bugfix release
   * Another upstream bugfix release. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 21:21:31 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 14 Apr 2016 15:20:01 -0700
 
 kdiamond (4:15.12.1-1ubuntu1) xenial; urgency=medium
 
