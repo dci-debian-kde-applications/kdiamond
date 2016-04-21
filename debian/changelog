@@ -1,10 +1,11 @@
-kdiamond (4:15.12.3-1~1.gbp8f0e07) UNRELEASED; urgency=medium
+kdiamond (4:16.04.0-1~1.gbp5fd6c3) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @8f0e07a42dfadd06b1bcf9fcc1b92d8644de83f8 **
+  ** SNAPSHOT build @5fd6c3905b53d459c567efa5fddd1d8ce3d83e33 **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:14:42 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 05:14:14 +0200
 
 kdiamond (4:15.12.1-1) experimental; urgency=medium
 
