@@ -1,11 +1,20 @@
-kdiamond (4:16.04.0-1~1.gbp5fd6c3) UNRELEASED; urgency=medium
+kdiamond (4:16.04.0-1~2.gbp019552) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @0195526272d85ee8391e0f9d3a16387e83fff567 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @5fd6c3905b53d459c567efa5fddd1d8ce3d83e33 **
 
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 05:14:14 +0200
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
+  * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:14:15 +0200
 
 kdiamond (4:15.12.1-1) experimental; urgency=medium
 
