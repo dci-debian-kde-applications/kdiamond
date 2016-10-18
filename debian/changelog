@@ -1,10 +1,8 @@
-kdiamond (4:16.08.0-1~1.gbp7258ab) UNRELEASED; urgency=medium
+kdiamond (4:16.08.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @7258ab3fe4a7beac72e187a4a9932ac216a1d522 **
+  * New upstream release (16.08.0)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 23:14:15 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:08:06 +0200
 
 kdiamond (4:16.04.0-1) unstable; urgency=medium
 
