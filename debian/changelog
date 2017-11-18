@@ -15,6 +15,8 @@ kdiamond (4:17.08.3-1~1) UNRELEASED; urgency=medium
   * Stop forcing debian/tmp as local installation directory, installing
     everything to the final location
     - drop kdiamond.install, no more useful now
+  * Remove unused build dependencies: libkf5guiaddons-dev,
+    libkf5iconthemes-dev, and libkf5kdelibs4support-dev.
 
  -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 11:20:05 +0100
 
